@@ -1,2 +1,2 @@
 console.log('config file')
-console.log('version 12')
+console.log('version 13')
